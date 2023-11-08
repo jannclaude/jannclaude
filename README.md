@@ -1,4 +1,4 @@
-<h2> It's me. Hi! I'm Claude. 👋 </h2>
+<h2> It's me. Hi! I'm Claude. 👋  </h2>
 
 <div align="right">
 
@@ -10,7 +10,7 @@
 
 From the Philippines, I am a passionate full-stack web developer and designer with a deep fascination for the ever-evolving world of technology. My journey in computer software and web development is fueled by my desire to learn and create innovative solutions that make a positive impact in the digital realm. When I'm not coding you can find me watching mystery films, listening to music, or designing artworks.
 
-<h4>&nbsp; &nbsp; 🚀 My programming skills ...</h4>
+<h4>&nbsp; &nbsp; 🚀 My programming skills ...  </h4>
 
 <p>
   <dl>
@@ -36,7 +36,7 @@ From the Philippines, I am a passionate full-stack web developer and designer wi
   </dl>
 </p>
 
-<h4>&nbsp; &nbsp; 🎨 My designing skills ...</h4>
+<h4>&nbsp; &nbsp; 🎨 My designing skills ...  </h4>
 
 <p>
   <dl>
@@ -59,7 +59,7 @@ From the Philippines, I am a passionate full-stack web developer and designer wi
   </dl>
 </p>
 
-<h4>&nbsp; &nbsp; 🛠️ Tools I use ...</h4>
+<h4>&nbsp; &nbsp; 🛠️ Tools I use ...  </h4>
 
 <p>
   <dl>
@@ -98,10 +98,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-&nbsp; &nbsp; &nbsp; ![Claude's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannclaude&show_icons=true&title_color=c9d1d9&icon_color=f6c32c&border_color=373b42&text_color=f2f2f2&bg_color=21262d&border_radius=8&count_private=true&layout=compact)
+<div align="center">
+  
+  ![Claude's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannclaude&show_icons=true&title_color=c9d1d9&icon_color=f6c32c&border_color=373b42&text_color=f2f2f2&bg_color=21262d&border_radius=8&count_private=true&layout=compact)
+</div>
+
 
 <p align="right">
-  <h5 align="right">📫 How to reach me: 
+  <h5 align="right">📫 How to reach me:  
 
   <br />
   <br />

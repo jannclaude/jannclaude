@@ -8,7 +8,7 @@
 
 <h4>Welcome to my GitHub!</h4> 
 
-From the Philippines, I am a passionate full-stack web developer and designer with a deep fascination for the ever-evolving world of technology. My journey in computer software and web development is fueled by my desire to learn and create innovative solutions that make a positive impact in the digital realm. When I'm not coding you can find me watching mystery films, listening to music, or designing artworks.
+I am a passionate full-stack web developer and designer with a deep fascination for designing and building applications that make a positive impact in the digital realm. When I'm not coding you can find me watching mystery films, listening to music, or designing artworks.
 
 <h4>&nbsp; &nbsp; 🚀 My programming skills ...  </h4>
 

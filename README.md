@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 
 <p align="right">
-  <h5 align="right">📫 How to reach me:  
+  <h5 align="right">📫 Find me:  
 
   <br />
   <br />

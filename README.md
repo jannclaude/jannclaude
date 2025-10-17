@@ -8,7 +8,7 @@
 
 <h4>Welcome to my GitHub!</h4> 
 
-I am a passionate full-stack web developer and designer with a deep fascination for designing and building applications that make a positive impact in the digital realm. When I'm not coding you can find me watching mystery films, listening to music, or designing artworks.
+I am a passionate developer and designer with a deep fascination for designing and building applications that make a positive impact in the digital realm. When I'm not coding you can find me watching mystery films, listening to music, or designing artworks.
 
 <h4>&nbsp; &nbsp; 🚀 My programming skills ...  </h4>
 
@@ -27,7 +27,6 @@ I am a passionate full-stack web developer and designer with a deep fascination 
               <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
               <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
               <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-              <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
             </dd>
           </dl>
         </dd>
@@ -49,7 +48,6 @@ I am a passionate full-stack web developer and designer with a deep fascination 
               <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
               <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
               <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-              <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />
               <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
             </dd>
           </dl>
